@@ -14,8 +14,8 @@ services:
          - MULTITHREADING=false
          - COMMUNITY=false  # Enable this if you want your server to show up in the community servers tab, USE WITH SERVER_PASSWORD!
          # Enable the environment variables below if you have COMMUNITY=true
-         # - SERVER_PASSWORD="worldofpals"
-         # - SERVER_NAME="World of Pals"
-         # - ADMIN_PASSWORD="someAdminPassword"
+         # - SERVER_PASSWORD="marumaru"
+         # - SERVER_NAME="hinamaru"
+         # - ADMIN_PASSWORD="dydwns1743"
       volumes:
          - ./palworld:/palworld/
